@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\salm\documents\visual studio 2017\projects\terraingenerator\terraingenerator\main.cpp(152): warning C4189: 'hej': local variable is initialized but not referenced
+c:\users\salm\documents\visual studio 2017\projects\terraingenerator\terraingenerator\main.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\salm\documents\visual studio 2017\projects\terraingenerator\terraingenerator\main.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\salm\documents\visual studio 2017\projects\terraingenerator\terraingenerator\main.cpp(188): warning C4189: 'a': local variable is initialized but not referenced
+c:\users\salm\documents\visual studio 2017\projects\terraingenerator\terraingenerator\main.cpp(182): warning C4189: 'k': local variable is initialized but not referenced
+c:\users\salm\documents\visual studio 2017\projects\terraingenerator\terraingenerator\main.cpp(189): warning C4189: 'b': local variable is initialized but not referenced
+c:\users\salm\documents\visual studio 2017\projects\terraingenerator\terraingenerator\main.cpp(191): warning C4189: 'c2': local variable is initialized but not referenced
+c:\users\salm\documents\visual studio 2017\projects\terraingenerator\terraingenerator\main.cpp(183): warning C4189: 'h': local variable is initialized but not referenced
+c:\users\salm\documents\visual studio 2017\projects\terraingenerator\terraingenerator\main.cpp(275): warning C4838: conversion from 'const int' to 'uint32_t' requires a narrowing conversion
+  TerrainGenerator.vcxproj -> C:\Users\salm\Documents\Visual Studio 2017\Projects\TerrainGenerator\Debug\TerrainGenerator.exe
